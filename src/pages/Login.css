@@ -1,0 +1,16 @@
+.login-container {
+    margin: auto;
+    width:fit-content;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 8%;
+}
+
+.login-button {
+    margin-top: 35px !important;
+}
+
+.forgot-password {
+    margin-top: 10px;
+    font-size: 11px;
+}
